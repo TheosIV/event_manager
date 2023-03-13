@@ -1,0 +1,2 @@
+# event_manager
+THE ODIN PROJECT - EVENT MANAGER PROJECT
